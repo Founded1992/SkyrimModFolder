@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid=TamrielAliveMain.MODID, name=TamrielAliveMain.NAME, version=TamrielAliveMain.VERSION, acceptedMinecraftVersions=TamrielAliveMain.MC_VERSION)
+@Mod(useMetadata=true,modid=TamrielAliveMain.MODID,name=TamrielAliveMain.NAME,version=TamrielAliveMain.VERSION,acceptedMinecraftVersions=TamrielAliveMain.MC_VERSION)
 public class TamrielAliveMain 
 {
 	
@@ -34,7 +34,7 @@ public class TamrielAliveMain
 	{
 		
 		logger = event.getModLog();
-		logger.info("TutorialMod.NAME "+"beginning preinitialization.");
+		logger.info("TamrielAliveMain.NAME "+"beginning preinitialization.");
 		proxy.preInit(event);
 		
 	}
@@ -43,7 +43,7 @@ public class TamrielAliveMain
 	public void init(FMLInitializationEvent event)
 	{
 		
-		logger.info("TutorialMod.NAME "+"beginning initialization.");
+		logger.info("TamrielAliveMain.NAME "+"beginning initialization.");
 		proxy.init(event);
 		
 	}
@@ -52,7 +52,7 @@ public class TamrielAliveMain
 	public void postInit(FMLPostInitializationEvent event)
 	{
 		
-		logger.info("TutorialMod.NAME "+"beginning postinitialization.");
+		logger.info("TamrielAliveMain.NAME "+"beginning postinitialization.");
 		proxy.postInit(event);
 		
 	}
