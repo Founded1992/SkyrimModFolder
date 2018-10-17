@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tamrielalive",
+  "name": "Tamriel Alive",
+  "description": "An implementation of Skyrim in Minecraft.",
+  "version": "INDEV.0.1",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nerdycus","Founded1992"],
+  "credits": "Cubicoder's 1.12.2 modding tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

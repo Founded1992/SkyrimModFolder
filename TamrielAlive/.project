@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TamrielAlive</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/resources/assets/tamrielalive/textures/blocks/generic_block.png</name>
+			<type>1</type>
+			<location>C:/Users/Leval/Documents/GitHub/SkyrimModFolder/TamrielAlive/src/main/resources/assets/tamrielalive/textures/blocks/generic_block.png</location>
+		</link>
+		<link>
+			<name>src/main/resources/assets/tamrielalive/textures/items/generic_item.png</name>
+			<type>1</type>
+			<location>C:/Users/Leval/Documents/GitHub/SkyrimModFolder/TamrielAlive/src/main/resources/assets/tamrielalive/textures/items/generic_item.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
