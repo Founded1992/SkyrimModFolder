@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		"X X",
+		" X "
+	],
+	"key": {
+		"X": {
+			"item": "tamrielalive:generic_block"
+		}
+	},
+	"result": {
+		"item": "tamrielalive:generic_item"
+	}
+}
